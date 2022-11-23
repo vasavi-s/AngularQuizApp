@@ -1,5 +1,8 @@
 # AngularQuizApp
 
+![image](https://user-images.githubusercontent.com/81638871/203570656-5701e605-ee8e-4bdc-89e5-5d68d044456e.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
